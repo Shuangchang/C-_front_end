@@ -1,0 +1,3 @@
+C:\Users\Tiannan\Downloads\ObjectListViewFull-2.9.1\ObjectListViewDemo\Tests\obj\Debug\Tests2012.csprojResolveAssemblyReference.cache
+C:\Users\Tiannan\Downloads\ObjectListViewFull-2.9.1\ObjectListViewDemo\Tests\obj\Debug\BrightIdeasSoftware.Tests.MainForm.resources
+C:\Users\Tiannan\Downloads\ObjectListViewFull-2.9.1\ObjectListViewDemo\Tests\obj\Debug\Tests2012.csproj.GenerateResource.Cache

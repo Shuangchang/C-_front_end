@@ -1,0 +1,4 @@
+C:\Users\Tiannan\Desktop\shuang2014\client\project3\index\RestDdl\RestUtil\RestUtil\bin\Debug\RestUtil.dll
+C:\Users\Tiannan\Desktop\shuang2014\client\project3\index\RestDdl\RestUtil\RestUtil\bin\Debug\RestUtil.pdb
+C:\Users\Tiannan\Desktop\shuang2014\client\project3\index\RestDdl\RestUtil\RestUtil\obj\Debug\RestUtil.dll
+C:\Users\Tiannan\Desktop\shuang2014\client\project3\index\RestDdl\RestUtil\RestUtil\obj\Debug\RestUtil.pdb
